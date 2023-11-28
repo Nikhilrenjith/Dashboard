@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+.DS_Store
+
+# Environment variables
+.env
+
+# Build output
+dist/
+coverage/
+
+# Logs
+logs/
+*.log
